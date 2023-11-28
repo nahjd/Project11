@@ -1,0 +1,26 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Electronics",
+        "description": "small"
+      },
+      {
+        "id": 2,
+        "name": "Clothing",
+        "description": "small"
+      },
+      {
+        "id": 3,
+        "name": "Books",
+        "description": "big"
+      },
+      {
+        "id": 4,
+        "name": "Home & Kitchen",
+        "description": "big"
+      }
+    
+    ]
+  }
+  
